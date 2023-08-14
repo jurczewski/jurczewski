@@ -22,6 +22,6 @@
 
 <p></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jurczewski&show_icons=true&locale=en" alt="jurczewski" /></p>
+<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jurczewski&show_icons=true&locale=en" alt="jurczewski" /></p>-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jurczewski&" alt="jurczewski" /></p>

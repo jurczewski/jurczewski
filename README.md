@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jurczewski" alt="jurczewski" /></a> </p>
 
-- 🔭 I’m currently working on [Boocars](https://boocars.com.pl)
+- 🔭 Currently building [Boocars](https://boocars.com.pl) – a platform for managing vehicle bookings and rentals, developed with **.NET** and deployed on **Microsoft Azure**
 
-- 🌱 I’m currently learning **microservices & modular monolith**
+- 🌱 Exploring AI generation, including [Flux](https://blackforestlabs.ai/) for image creation, KlingAI for image-to-video, and LoRA fine-tuning  
 
-- 🤝 I’m developing a OSS tool named [private-pdf-converter](https://github.com/jurczewski/private-pdf-converter)
+- 🤝 Developing [private-pdf-converter](https://github.com/jurczewski/private-pdf-converter), an OSS tool  
 
 - 👨‍💻 I previously worked on [Amperio Backend](https://github.com/jurczewski-amperio)
 

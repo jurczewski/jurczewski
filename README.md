@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jurczewski&label=Profile%20views&color=0e75b6&style=flat" alt="jurczewski" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jurczewski" alt="jurczewski" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jurczewski" alt="jurczewski" /></a> </p> -->
 
 - 🔭 Currently building [Boocars](https://boocars.com.pl) – a platform for managing vehicle bookings and rentals, developed with **.NET** and deployed on **Microsoft Azure**
 
@@ -31,4 +31,4 @@
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jurczewski&show_icons=true&locale=en" alt="jurczewski" /></p>-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jurczewski&" alt="jurczewski" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jurczewski&" alt="jurczewski" /></p> -->

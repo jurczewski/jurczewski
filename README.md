@@ -7,7 +7,7 @@
 
 - 🔭 Currently building [Boocars](https://boocars.com.pl) – a platform for managing vehicle bookings and rentals, developed with **.NET** and deployed on **Microsoft Azure**
 
-- 🌱 Exploring AI generation, including [Flux](https://blackforestlabs.ai/) for image creation, KlingAI for image-to-video, and LoRA fine-tuning
+- 🌱 Exploring AI‑driven development workflows and LLM integration in enterprise applications, including [n8n](https://n8n.io/)-powered automation and modern software architecture design.
 
 - 🤝 Developing [private-pdf-converter](https://github.com/jurczewski/private-pdf-converter), an OSS tool
 
